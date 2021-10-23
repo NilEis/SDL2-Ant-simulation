@@ -1,0 +1,8 @@
+.vscode
+*.o
+*.exe
+*.wasm
+bin/HTML/GOL_sdl2.js
+*.mp4
+bin/HTML/ANTS_sdl2.js
+obj/main.gcda
